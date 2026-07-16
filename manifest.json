@@ -1,0 +1,19 @@
+{
+  "name": "pano-viewer",
+  "label": "360 Panorama Viewer",
+  "type": "widget",
+  "version": "0.1.0",
+  "exbVersion": "1.18.0",
+  "author": "SLR Consulting",
+  "description": "Interactive 360 panorama viewer with per-site phase toggles for visual simulation comparison.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 1000,
+    "height": 650
+  }
+}
